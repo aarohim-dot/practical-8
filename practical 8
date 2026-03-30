@@ -1,0 +1,92 @@
+<html>
+<head>
+  <title>Image Gallery</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Sweetness Of Dessert</h1>
+  <div class="gallery">
+    <div class="image">
+      <img src="C:\Users\LENOVO\Desktop\barfi.png" alt="Image 1">
+    </div>
+    <div class="image">
+      <img src="C:\Users\LENOVO\Desktop\blueberry pastery.png" alt="Image 2">
+    </div>
+    <div class="image">
+      <img src="C:\Users\LENOVO\Desktop\burfi cake.png" alt="Image 3">
+    </div>
+    <div class="image">
+      <img src="C:\Users\LENOVO\Desktop\cake bun.png" alt="Image 4">
+    </div>
+    <div class="image">
+      <img src="C:\Users\LENOVO\Desktop\cake pineapple.png" alt="Image 4">
+    </div>
+    <div class="image">
+      <img src="C:\Users\LENOVO\Desktop\caremel pudding.png" alt="Image 4">
+    </div>
+    <div class="image">
+      <img src="C:\Users\LENOVO\Desktop\chocolate balls.png" alt="Image 4">
+    </div>
+    <div class="image">
+      <img src="C:\Users\LENOVO\Desktop\chocolate hallowin balls.png" alt="Image 4">
+    </div>
+    <div class="image">
+      <img src="C:\Users\LENOVO\Desktop\cholcate cup.png" alt="Image 4">
+    </div>
+   <div class="image">
+      <img src="C:\Users\LENOVO\Desktop\gulabjamun.png" alt="Image 4">
+    </div>
+   <div class="image">
+      <img src="C:\Users\LENOVO\Desktop\cupcake.png" alt="Image 4">
+    </div>
+   <div class="image">
+      <img src="C:\Users\LENOVO\Desktop\cupicecream.png" alt="Image 4">
+    </div>
+   <div class="image">
+      <img src="C:\Users\LENOVO\Desktop\marhsmello cake.png" alt="Image 4">
+    </div>
+   <div class="image">
+      <img src="C:\Users\LENOVO\Desktop\cupicecream.png" alt="Image 4">
+    </div>
+   <div class="image">
+      <img src="C:\Users\LENOVO\Desktop\chocolate pudding.png" alt="Image 4">
+    </div>
+    <div class="image">
+      <img src="C:\Users\LENOVO\Desktop\ragulla.png" alt="Image 4">
+    </div>
+   <div class="image">
+      <img src="C:\Users\LENOVO\Desktop\orande slice cake.png" alt="Image 4">
+    </div>
+   <div class="image">
+      <img src="C:\Users\LENOVO\Desktop\wift cream.png" alt="Image 4">
+    </div>
+   <div class="image">
+      <img src="C:\Users\LENOVO\Desktop\vallina burfi.png" alt="Image 4">
+    </div>
+   <div class="image">
+      <img src="C:\Users\LENOVO\Desktop\pancake.png" alt="Image 4">
+    </div>
+   <div class="image">
+      <img src="C:\Users\LENOVO\Desktop\pudding.png" alt="Image 4">
+    </div>
+   <div class="image">
+      <img src="C:\Users\LENOVO\Desktop\rasmallai.png" alt="Image 4">
+    </div>
+   <div class="image">
+      <img src="C:\Users\LENOVO\Desktop\stawberrycake.png" alt="Image 4">
+    </div>
+   <div class="image">
+      <img src="C:\Users\LENOVO\Desktop\kajukalti.png" alt="Image 4">
+    </div>
+   <div class="image">
+      <img src="C:\Users\LENOVO\Desktop\macron.png" alt="Image 4">
+    </div>
+   <div class="image">
+      <img src="C:\Users\LENOVO\Desktop\valina cake roll.png" alt="Image 4">
+    </div>
+  </div>
+<br>
+<H3>Aarohi Mathurkar 
+CS25003</H3>
+</body>
+</html>
